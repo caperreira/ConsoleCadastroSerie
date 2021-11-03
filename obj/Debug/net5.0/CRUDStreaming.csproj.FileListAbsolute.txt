@@ -1,0 +1,16 @@
+C:\Users\acacio.santos\source\repos\CRUDStreaming\bin\Debug\net5.0\CRUDStreaming.exe
+C:\Users\acacio.santos\source\repos\CRUDStreaming\bin\Debug\net5.0\CRUDStreaming.deps.json
+C:\Users\acacio.santos\source\repos\CRUDStreaming\bin\Debug\net5.0\CRUDStreaming.runtimeconfig.json
+C:\Users\acacio.santos\source\repos\CRUDStreaming\bin\Debug\net5.0\CRUDStreaming.runtimeconfig.dev.json
+C:\Users\acacio.santos\source\repos\CRUDStreaming\bin\Debug\net5.0\CRUDStreaming.dll
+C:\Users\acacio.santos\source\repos\CRUDStreaming\bin\Debug\net5.0\ref\CRUDStreaming.dll
+C:\Users\acacio.santos\source\repos\CRUDStreaming\bin\Debug\net5.0\CRUDStreaming.pdb
+C:\Users\acacio.santos\source\repos\CRUDStreaming\obj\Debug\net5.0\CRUDStreaming.csproj.AssemblyReference.cache
+C:\Users\acacio.santos\source\repos\CRUDStreaming\obj\Debug\net5.0\CRUDStreaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acacio.santos\source\repos\CRUDStreaming\obj\Debug\net5.0\CRUDStreaming.AssemblyInfoInputs.cache
+C:\Users\acacio.santos\source\repos\CRUDStreaming\obj\Debug\net5.0\CRUDStreaming.AssemblyInfo.cs
+C:\Users\acacio.santos\source\repos\CRUDStreaming\obj\Debug\net5.0\CRUDStreaming.csproj.CoreCompileInputs.cache
+C:\Users\acacio.santos\source\repos\CRUDStreaming\obj\Debug\net5.0\CRUDStreaming.dll
+C:\Users\acacio.santos\source\repos\CRUDStreaming\obj\Debug\net5.0\ref\CRUDStreaming.dll
+C:\Users\acacio.santos\source\repos\CRUDStreaming\obj\Debug\net5.0\CRUDStreaming.pdb
+C:\Users\acacio.santos\source\repos\CRUDStreaming\obj\Debug\net5.0\CRUDStreaming.genruntimeconfig.cache
